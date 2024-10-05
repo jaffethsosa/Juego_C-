@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="JuegoProyecto" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/JuegoProyecto" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/JuegoProyecto" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Nivel1.cpp" />
+		<Unit filename="Nivel1.h" />
+		<Unit filename="Nivel2.cpp" />
+		<Unit filename="Nivel2.h" />
+		<Unit filename="Nivel3.cpp" />
+		<Unit filename="Nivel3.h" />
+		<Unit filename="canion.cpp" />
+		<Unit filename="controlesGUI.cpp" />
+		<Unit filename="controlesGUI.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="minigraph.cpp" />
+		<Unit filename="minigraph.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

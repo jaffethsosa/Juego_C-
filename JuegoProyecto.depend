@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1711197209 source:c:\users\jaffe\onedrive\documentos\codeblocks\juegoproyecto\controlesgui.cpp
+	"controlesGUI.h"
+	"Nivel2.h"
+	"minigraph.h"
+	<iostream>
+	<cmath>
+	<ctime>
+
+1711197481 c:\users\jaffe\onedrive\documentos\codeblocks\juegoproyecto\controlesgui.h
+	"minigraph.h"
+	<iostream>
+
+1710997033 c:\users\jaffe\onedrive\documentos\codeblocks\juegoproyecto\minigraph.h
+	<iostream>
+
+1711199780 source:c:\users\jaffe\onedrive\documentos\codeblocks\juegoproyecto\main.cpp
+	"ControlesGUI.h"
+	"minigraph.h"
+	"Nivel1.h"
+	"Nivel2.h"
+	"Nivel3.h"
+	<ctime>
+
+1710996767 source:c:\users\jaffe\onedrive\documentos\codeblocks\juegoproyecto\minigraph.cpp
+	<fstream>
+	<sstream>
+	<queue>
+	<math.h>
+	<process.h>
+	<windows.h>
+	<windowsx.h>
+	"minigraph.h"
+
+1710263095 c:\users\jaffe\onedrive\documentos\codeblocks\juegoproyecto\include\laberinto.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+
+1710263095 source:c:\users\jaffe\onedrive\documentos\codeblocks\juegoproyecto\src\laberinto.cpp
+	"Laberinto.h"
+
+1710361715 source:c:\users\jaffe\onedrive\documentos\codeblocks\juegoproyecto\laberinto\laberinto.cpp
+	"laberinto.h"
+
+1710361526 c:\users\jaffe\onedrive\documentos\codeblocks\juegoproyecto\laberinto\laberinto.h
+	<iostream>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+
+1710892054 source:c:\users\jaffe\onedrive\documentos\codeblocks\juegoproyecto\casillas.cpp
+	"casillas.h"
+	"minigraph.h"
+	<cstdlib>
+	<vector>
+	<ctime>
+
+1710892106 c:\users\jaffe\onedrive\documentos\codeblocks\juegoproyecto\casillas.h
+	"minigraph.h"
+	<vector>
+	<ctime>
+
+1711028833 source:c:\users\jaffe\onedrive\documentos\codeblocks\juegoproyecto\nivel1.cpp
+	"Nivel1.h"
+	"Nivel2.h"
+	"minigraph.h"
+	"controlesGUI.h"
+	<iostream>
+	<ctime>
+
+1710893858 c:\users\jaffe\onedrive\documentos\codeblocks\juegoproyecto\nivel1.cpp
+	"Nivel1.h"
+	"minigraph.h"
+	<iostream>
+
+1710993329 c:\users\jaffe\onedrive\documentos\codeblocks\juegoproyecto\nivel1.h
+	<string>
+
+1711189657 source:c:\users\jaffe\onedrive\documentos\codeblocks\juegoproyecto\nivel2.cpp
+	"Nivel2.h"
+	"minigraph.h"
+	"controlesGUI.h"
+	<iostream>
+	<cmath>
+	<ctime>
+
+1711198833 source:c:\users\jaffe\onedrive\documentos\codeblocks\juegoproyecto\nivel3.cpp
+	"controlesGUI.h"
+	"minigraph.h"
+	<iostream>
+	<ctime>
+
+1710978627 c:\users\jaffe\onedrive\documentos\codeblocks\juegoproyecto\nivel2.h
+	"minigraph.h"
+	"controlesGUI.h"
+
+1710978627 source:c:\users\jaffe\onedrive\documentos\codeblocks\juegoproyecto\canion.cpp
+	"Nivel2.h"
+	"minigraph.h"
+
+1711198451 c:\users\jaffe\onedrive\documentos\codeblocks\juegoproyecto\nivel3.h
+	<string>
+	<ctime>
+
